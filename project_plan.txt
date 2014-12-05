@@ -1,0 +1,9 @@
+Phase wise project plan
+
+Phase 1 - Assimilate rules of jeopardy and build corpus accordingly
+
+Phase 2 - build a crawler to process through corpus and return important entities
+
+Phase 3 - Build front end for simple questions, code algo to match and select answers
+
+Phase 4 - Code a front end for all tpes of questions with constraint specification
