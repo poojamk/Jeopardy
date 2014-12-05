@@ -1,6 +1,3 @@
-
-Category wise algorithms
-
 List of categories
 
 Abbreviations
@@ -49,3 +46,59 @@ Television
 United Nations
 Wars
 Women
+
+
+
+Category wise algorithms
+
+Abbreviations - find words with same order of letters. ex - match aka with *a*k*a*
+Also known as - find entities which match the relation NNP - NNP connected by 'also known as' or 'known'
+Art & Artists - same as aka
+Astronomy and space - same as aka
+Awards - same as aka, connected by 'nominated for' or 'won'
+Celebrities - direct sentence parsing.
+Cinemas - parsing to find connections between movies and people involved.
+Cities - simple sentence parsing
+College and Universities - needs further study
+Composers - linking to discographies as main question.
+Discoveries/Explorers - Parsing for relation between discoverer and discovered article.
+Food - Dishes. Connect to recies and famous alternative names.
+Geography - connect to region specific pages
+Geology - same as geography
+Health - mostly questions on diseases. Connect to cause and symptoms and cure.
+Holidays - connect to dates and significance
+Languages - translations/etymology
+Latin Phrases - translations in specific. Find a way to connect to a dictionary
+Music - relate songs to artists and albums
+Mythology - linking of characters to act
+Organisations - Link names to products and CSR events if any. Can be expanded to include scandals
+Plays - connect author to play and dialogue to play
+Poetry - connect poem to poet
+Quotes - connect names to quotes
+Shakespeare - same as plays, poetry or literature
+Sports - connect sportsman to sport, matches and records
+Television - famous shows and trivia
+United Nations - connect people to posts and countries
+Wars - dates and regions and alternative names
+Women - women and their contributions
+
+
+Categories which are too broad and need to be studied further to categorize further
+Ancient history 
+Animal kingdom
+Business and Industry
+Countries
+Dance
+Government
+History - Mostly dates though, tied in with category War.
+Literature
+Newspapers and Magazines
+Plant Kingdom
+Science
+
+Needs further study
+Famous Names
+Fashion
+Human bodies
+Royalty
+Ships
